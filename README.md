@@ -2,7 +2,7 @@
 
 This repository contains the open source Java code for Palindrome REST API. Documentation can be found at: (http://13.53.136.40:8080/api/v2-docs)
 
-## Steps to setup
+## How to setup
 
 ### 1. Create an EC2 instance and install Docker, aws-cli.
 
