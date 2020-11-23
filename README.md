@@ -1,6 +1,6 @@
 # Palindrome REST-API
 
-This repository contains the open source Java code for Palindrome REST API. Documentation can be found at: (http://13.48.44.117:8080/api/v2-docs)
+This repository contains the open source Java code for Palindrome REST API. Documentation can be found at: (http://13.48.44.117:8080/api/v2/api-docs) and Swagger Documentation Ui can be found at: http://13.48.44.117:8080/api/swagger-ui/index.html#/message-rest-controller
 
 ## How to setup
 
